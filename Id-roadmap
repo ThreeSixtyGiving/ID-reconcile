@@ -1,0 +1,17 @@
+What do we want this product to do?
+1. Will reconcile current enitties in the 360Giving dataset
+2. Will help data publishers to find current internal 360Giving org ids for organisations.
+3. Will help data publishers to enrich their dataset with org-ids.
+
+Who is the main audience?
+1. Staff in grantmaking organisations that published 360Giving with usually low capacity to analyse the data, either because they don't have
+the knowledge or the time to produce one.
+2. Data analysts who want to reconcile 360Giving data.
+
+How we will achieve this?
+1. We will reconcile the current 360Giving corpus using de-dupe algorithm.
+2. We will create a query tool for identifiers using the reconciled data.
+
+Version 1.0 MVP -
+1. Create a table of entities / clusters for the current 360Giving dataset
+2. Will create a query tool for publishers
