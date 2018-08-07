@@ -10,7 +10,7 @@ the knowledge or the time to produce one.
 
 How we will achieve this?
 1. We will reconcile the current 360Giving corpus using de-dupe algorithm.
-2. We will create a query tool for identifiers using the reconciled data.
+2. We will create a query tool for identifiers using the reconciled data through Find That Charity tool. 
 
 Version 1.0 MVP -
 1. Create a table of entities / clusters for the current 360Giving dataset
